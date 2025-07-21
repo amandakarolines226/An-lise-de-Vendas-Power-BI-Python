@@ -1,1 +1,73 @@
-Data da Venda,Modelo,Cor,Regiao,Quantidade,Preco Unitario,Receita Total,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Receita Calculada
+Data da Venda,Modelo,Cor,Regiao,Quantidade,Preco Unitario,Receita Total,Receita Calculada
+2025-06-30,Luisa,Preto,Fortaleza,1,149.9,149.9,149.9
+2025-07-01,Jessy,Preto,Sao Paulo,1,123.5,123.5,123.5
+2025-07-02,Lia,Vinho,Fortaleza,1,139.9,139.9,139.9
+2025-07-02,Fabi,Cinza,Fortaleza,1,78.0,78.0,78.0
+2025-07-02,Laila,Marrom,Fortaleza,1,104.9,104.9,104.9
+2025-07-02,Iris,Vermelho,Fortaleza,1,129.9,129.9,129.9
+2025-07-02,Luisa,Azul marinho,Fortaleza,1,149.9,149.9,149.9
+2025-07-02,Luisa,Preto,Fortaleza,1,149.9,149.9,149.9
+2025-07-02,Lia,Vinho,Fortaleza,1,139.9,139.9,139.9
+2025-07-02,Cris,Preto,Fortaleza,1,150.0,150.0,150.0
+2025-07-02,Naty,Preto,Fortaleza,1,149.9,149.9,149.9
+2025-07-02,Raissa,Vinho,Fortaleza,1,129.9,129.9,129.9
+2025-07-02,Amanda,Preto,Fortaleza,1,150.0,150.0,150.0
+2025-07-04,Miragi,Vinho,Fortaleza,1,149.9,149.9,149.9
+2025-07-04,Jessy,Vinho,Rio de Janeiro,1,123.5,123.5,123.5
+2025-07-04,Jessy,Preto,Rio de Janeiro,1,123.5,123.5,123.5
+2025-07-04,Anastacia,Vinho,Rio de Janeiro,1,145.0,145.0,145.0
+2025-07-04,Anastacia,Preto,Rio de Janeiro,1,145.0,145.0,145.0
+2025-07-04,Kalani,Preto,Rio de Janeiro,1,129.5,129.5,129.5
+2025-07-04,Monica,Preto,Rio de Janeiro,1,123.5,123.5,123.5
+2025-07-04,Ingrid,Preto,Rio de Janeiro,1,140.0,140.0,140.0
+2025-07-04,Belle,Preto,Rio de Janeiro,1,84.5,84.5,84.5
+2025-07-04,Dominique,Preto,Rio de Janeiro,1,149.9,149.9,149.9
+2025-07-04,Pam,Vinho,Rio de Janeiro,1,122.5,122.5,122.5
+2025-07-04,Esther,Vinho,Rio de Janeiro,1,140.0,140.0,140.0
+2025-07-04,Fabi,Vinho,Rio de Janeiro,1,78.0,78.0,78.0
+2025-07-04,Leonor,Vinho,Rio de Janeiro,1,139.9,139.9,139.9
+2025-07-04,May,Azul marinho,Rio de Janeiro,1,129.9,129.9,129.9
+2025-07-04,Celine,Vinho,Rio de Janeiro,1,130.0,130.0,130.0
+2025-07-07,Zoe,Vermelho,Minas Gerais,3,130.0,390.0,390.0
+2025-07-07,Zoe,Preto,Minas Gerais,1,130.0,130.0,130.0
+2025-07-07,Manu,Preto,Minas Gerais,2,129.9,259.8,259.8
+2025-07-07,Celine,Vinho,Minas Gerais,1,130.0,130.0,130.0
+2025-07-07,Celine,Cinza,Minas Gerais,1,130.0,130.0,130.0
+2025-07-07,Luxo,Preto,Minas Gerais,2,149.9,299.8,299.8
+2025-07-07,Ingrid,Preto,Minas Gerais,1,140.0,140.0,140.0
+2025-07-08,Kelly,Vinho,Sao Paulo,1,74.9,74.9,74.9
+2025-07-08,Karine,Preto,Sao Paulo,1,124.5,124.5,124.5
+2025-07-09,Fabi,Cinza,Fortaleza,1,78.0,78.0,78.0
+2025-07-09,Leila,Marrom,Fortaleza,1,160.0,160.0,160.0
+2025-07-09,Iris,Vermelho,Fortaleza,1,129.9,129.9,129.9
+2025-07-09,Luisa,Preto,Fortaleza,1,149.9,149.9,149.9
+2025-07-09,Luisa,Azul marinho,Fortaleza,1,149.9,149.9,149.9
+2025-07-09,Cris,Preto,Fortaleza,1,150.0,150.0,150.0
+2025-07-09,Naty,Preto,Fortaleza,1,149.9,149.9,149.9
+2025-07-09,Raissa,Vinho,Fortaleza,1,129.9,129.9,129.9
+2025-07-09,Amanda,Preto,Fortaleza,1,150.0,150.0,150.0
+2025-07-09,Nicole,Vinho,Fortaleza,1,78.0,78.0,78.0
+2025-07-09,Karine,Preto,Fortaleza,1,124.5,124.5,124.5
+2025-07-10,Karine,Azul marinho,Fortaleza,1,124.5,124.5,124.5
+2025-07-10,Ingrid,Vinho,Santa Catarina,1,139.9,139.9,139.9
+2025-07-10,Liliane,Preto,Santa Catarina,1,104.9,104.9,104.9
+2025-07-10,Karol,Preto,Santa Catarina,1,149.9,149.9,149.9
+2025-07-10,Estela,Preto,Santa Catarina,1,169.9,169.9,169.9
+2025-07-10,Estela,Vinho,Santa Catarina,1,169.9,169.9,169.9
+2025-07-10,Estela,Vinho,Sao Paulo,1,149.9,149.9,149.9
+2025-07-10,Paola,Preto,Sao Paulo,1,169.9,169.9,169.9
+2025-07-10,Kelly,Vinho,Fortaleza,1,74.9,74.9,74.9
+2025-07-11,Eloa,Preto,Recife,1,150.0,150.0,150.0
+2025-07-11,Karine,Azul marinho,Recife,1,124.9,124.9,124.9
+2025-07-11,Kira,Preto,Fortaleza,1,104.5,104.5,104.5
+2025-07-11,Luisa,Preto,Fortaleza,1,149.9,149.9,149.9
+2025-07-11,Esther,Vinho,Fortaleza,1,140.0,140.0,140.0
+2025-07-11,Jessy,Preto,Fortaleza,1,123.5,123.5,123.5
+2025-07-11,Zoe,Preto,Maranhao,1,130.0,130.0,130.0
+2025-07-11,Pam,Cinza,Maranhao,1,122.5,122.5,122.5
+2025-07-11,Kelly,Vinho,Maranhao,1,74.9,74.9,74.9
+2025-07-11,Rafaella,Preto,Maranhao,1,140.0,140.0,140.0
+2025-07-11,Dominique,Preto,Fortaleza,1,149.9,149.9,149.9
+2025-07-11,Dominique,Azul marinho,Fortaleza,1,149.9,149.9,149.9
+2025-07-12,Belle,Cinza,Fortaleza,1,84.5,84.5,84.5
+2025-07-12,Jessy,Preto,Fortaleza,1,123.5,123.5,123.5
