@@ -1,4 +1,4 @@
-![Capa do projeto](dashboard-vendas.png)
+![Capa do Projeto](dashboard-vendas.png)
 
 # Projeto: Análise de Vendas com Python + Power BI
 
