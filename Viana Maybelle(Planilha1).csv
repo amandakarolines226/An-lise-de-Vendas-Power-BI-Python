@@ -1,0 +1,73 @@
+Data da Venda;Modelo;Cor;Regiao;Quantidade;Preco Unitario;Receita Total
+30/06/2025;Luisa;Preto;Fortaleza;1; R$ 149,90 ; R$ 149,90 
+01/07/2025;Jessy;Preto;Sao Paulo;1; R$ 123,50 ; R$ 123,50 
+02/07/2025;Lia;Vinho;Fortaleza;1; R$ 139,90 ; R$ 139,90 
+02/07/2025;Fabi;Cinza;Fortaleza;1; R$ 78,00 ; R$ 78,00 
+02/07/2025;Laila;Marrom;Fortaleza;1; R$ 104,90 ; R$ 104,90 
+02/07/2025;Iris;Vermelho;Fortaleza;1; R$ 129,90 ; R$ 129,90 
+02/07/2025;Luisa;Azul marinho;Fortaleza;1; R$ 149,90 ; R$ 149,90 
+02/07/2025;Luisa;Preto;Fortaleza;1; R$ 149,90 ; R$ 149,90 
+02/07/2025;Lia;Vinho;Fortaleza;1; R$ 139,90 ; R$ 139,90 
+02/07/2025;Cris;Preto;Fortaleza;1; R$ 150,00 ; R$ 150,00 
+02/07/2025;Naty;Preto;Fortaleza;1; R$ 149,90 ; R$ 149,90 
+02/07/2025;Raissa;Vinho;Fortaleza;1; R$ 129,90 ; R$ 129,90 
+02/07/2025;Amanda;Preto;Fortaleza;1; R$ 150,00 ; R$ 150,00 
+04/07/2025;Miragi;Vinho;Fortaleza;1; R$ 149,90 ; R$ 149,90 
+04/07/2025;Jessy;Vinho;Rio de Janeiro;1; R$ 123,50 ; R$ 123,50 
+04/07/2025;Jessy;Preto;Rio de Janeiro;1; R$ 123,50 ; R$ 123,50 
+04/07/2025;Anastacia;Vinho;Rio de Janeiro;1; R$ 145,00 ; R$ 145,00 
+04/07/2025;Anastacia;Preto;Rio de Janeiro;1; R$ 145,00 ; R$ 145,00 
+04/07/2025;Kalani;Preto;Rio de Janeiro;1; R$ 129,50 ; R$ 129,50 
+04/07/2025;Monica;Preto;Rio de Janeiro;1; R$ 123,50 ; R$ 123,50 
+04/07/2025;Ingrid;Preto;Rio de Janeiro;1; R$ 140,00 ; R$ 140,00 
+04/07/2025;Belle;Preto;Rio de Janeiro;1; R$ 84,50 ; R$ 84,50 
+04/07/2025;Dominique;Preto;Rio de Janeiro;1; R$ 149,90 ; R$ 149,90 
+04/07/2025;Pam;Vinho;Rio de Janeiro;1; R$ 122,50 ; R$ 122,50 
+04/07/2025;Esther;Vinho;Rio de Janeiro;1; R$ 140,00 ; R$ 140,00 
+04/07/2025;Fabi;Vinho;Rio de Janeiro;1; R$ 78,00 ; R$ 78,00 
+04/07/2025;Leonor;Vinho;Rio de Janeiro;1; R$ 139,90 ; R$ 139,90 
+04/07/2025;May;Azul marinho;Rio de Janeiro;1; R$ 129,90 ; R$ 129,90 
+04/07/2025;Celine;Vinho;Rio de Janeiro;1; R$ 130,00 ; R$ 130,00 
+07/07/2025;Zoe;Vermelho;Minas Gerais;3; R$ 130,00 ; R$ 390,00 
+07/07/2025;Zoe;Preto;Minas Gerais;1; R$ 130,00 ; R$ 130,00 
+07/07/2025;Manu;Preto;Minas Gerais;2; R$ 129,90 ; R$ 259,80 
+07/07/2025;Celine;Vinho;Minas Gerais;1; R$ 130,00 ; R$ 130,00 
+07/07/2025;Celine;Cinza;Minas Gerais;1; R$ 130,00 ; R$ 130,00 
+07/07/2025;Luxo;Preto;Minas Gerais;2; R$ 149,90 ; R$ 299,80 
+07/07/2025;Ingrid;Preto;Minas Gerais;1; R$ 140,00 ; R$ 140,00 
+08/07/2025;Kelly;Vinho;Sao Paulo;1; R$ 74,90 ; R$ 74,90 
+08/07/2025;Karine;Preto;Sao Paulo;1; R$ 124,50 ; R$ 124,50 
+09/07/2025;Fabi;Cinza;Fortaleza;1; R$ 78,00 ; R$ 78,00 
+09/07/2025;Leila;Marrom;Fortaleza;1; R$ 160,00 ; R$ 160,00 
+09/07/2025;Iris;Vermelho;Fortaleza;1; R$ 129,90 ; R$ 129,90 
+09/07/2025;Luisa;Preto;Fortaleza;1; R$ 149,90 ; R$ 149,90 
+09/07/2025;Luisa;Azul marinho;Fortaleza;1; R$ 149,90 ; R$ 149,90 
+09/07/2025;Cris;Preto;Fortaleza;1; R$ 150,00 ; R$ 150,00 
+09/07/2025;Naty;Preto;Fortaleza;1; R$ 149,90 ; R$ 149,90 
+09/07/2025;Raissa;Vinho;Fortaleza;1; R$ 129,90 ; R$ 129,90 
+09/07/2025;Amanda;Preto;Fortaleza;1; R$ 150,00 ; R$ 150,00 
+09/07/2025;Nicole;Vinho;Fortaleza;1; R$ 78,00 ; R$ 78,00 
+09/07/2025;Karine;Preto;Fortaleza;1; R$ 124,50 ; R$ 124,50 
+10/07/2025;Karine;Azul marinho;Fortaleza;1; R$ 124,50 ; R$ 124,50 
+10/07/2025;Ingrid;Vinho;Santa Catarina;1; R$ 139,90 ; R$ 139,90 
+10/07/2025;Liliane;Preto;Santa Catarina;1; R$ 104,90 ; R$ 104,90 
+10/07/2025;Karol;Preto;Santa Catarina;1; R$ 149,90 ; R$ 149,90 
+10/07/2025;Estela;Preto;Santa Catarina;1; R$ 169,90 ; R$ 169,90 
+10/07/2025;Estela;Vinho;Santa Catarina;1; R$ 169,90 ; R$ 169,90 
+10/07/2025;Estela;Vinho;Sao Paulo;1; R$ 149,90 ; R$ 149,90 
+10/07/2025;Paola;Preto;Sao Paulo;1; R$ 169,90 ; R$ 169,90 
+10/07/2025;Kelly;Vinho;Fortaleza;1; R$ 74,90 ; R$ 74,90 
+11/07/2025;Eloa;Preto;Recife;1; R$ 150,00 ; R$ 150,00 
+11/07/2025;Karine;Azul marinho;Recife;1; R$ 124,90 ; R$ 124,90 
+11/07/2025;Kira;Preto;Fortaleza;1; R$ 104,50 ; R$ 104,50 
+11/07/2025;Luisa;Preto;Fortaleza;1; R$ 149,90 ; R$ 149,90 
+11/07/2025;Esther;Vinho;Fortaleza;1; R$ 140,00 ; R$ 140,00 
+11/07/2025;Jessy;Preto;Fortaleza;1; R$ 123,50 ; R$ 123,50 
+11/07/2025;Zoe;Preto;Maranhao;1; R$ 130,00 ; R$ 130,00 
+11/07/2025;Pam;Cinza;Maranhao;1; R$ 122,50 ; R$ 122,50 
+11/07/2025;Kelly;Vinho;Maranhao;1; R$ 74,90 ; R$ 74,90 
+11/07/2025;Rafaella;Preto;Maranhao;1; R$ 140,00 ; R$ 140,00 
+11/07/2025;Dominique;Preto;Fortaleza;1; R$ 149,90 ; R$ 149,90 
+11/07/2025;Dominique;Azul marinho;Fortaleza;1; R$ 149,90 ; R$ 149,90 
+12/07/2025;Belle;Cinza;Fortaleza;1; R$ 84,50 ; R$ 84,50 
+12/07/2025;Jessy;Preto;Fortaleza;1; R$ 123,50 ; R$ 123,50 
