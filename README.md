@@ -1,4 +1,4 @@
-![Capa do projeto](viana%20maybelle%20powerbi.pbix)
+![Capa do projeto](dashboard-vendas.png)
 # Projeto: Análise de Vendas com Python + Power BI
 
 Este projeto simula a análise de dados de vendas utilizando Python para o tratamento dos dados e Power BI para visualização dos insights.
